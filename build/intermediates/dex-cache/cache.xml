@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\305bc9b94ce04885846c9186e21a0f8a5fd0fa2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cdc381296af546c9e6ffa811fc601f6ad631c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\eb4b679d511f1f7df57e5ac7af79fc853f6e4762\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d88d2f677c2fab04fcec9e840d4e2df506b9cb55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\QMan_Adm\Admin_Qma\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5edbdd0c39236b6d79326ce9d7ae958911b91e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\a5c1bf34984d119c8f6f05ee1d582308ace98278\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c18ce8140a94e79e4ccf740e40fc8626aec84ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\16eb431f53eb48aa732ac1aec5c46c66e42c8a32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a72f1bf412fcf4b2f41188a4cefcef62a5ce34c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\QMan_Adm\Admin_Qma\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4146b217f854383edc0309670155cbbea43bb5cf">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34a04d5bf08055bdee213d7f1f9bb8e09f4bd017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\d337861badd1d3933670f460006be0f7e9cf56c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb02372fb1d885e032c9fa9c589f2a267d9d05a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\c2a05adf5b9096085309b5192a29f7d562c7aecd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcbdded79565942d3237519a715d184f2658781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\f1e722ef534d5c8790ab08ca43af3668dda9bf90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\QMan_Adm\Admin_Qma\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f50f14dc153d60b5daf98c98be58c590327e2152\classes.dex" />
+    </item>
+
+</items>
