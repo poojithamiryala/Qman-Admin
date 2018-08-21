@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "245486346683",
+    "firebase_url": "https://queueadmin-197813.firebaseio.com",
+    "project_id": "queueadmin-197813",
+    "storage_bucket": "queueadmin-197813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245486346683:android:3e898f3928577ff1",
+        "android_client_info": {
+          "package_name": "com.example.poojithamiryala.admin_qma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245486346683-d8tsjckca4qu459ti9sut2vuqo750gt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSCKfOhfEeuTFj6wZhtBNnPuS_R_cR2YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245486346683:android:5ea7b68990f0a2ff",
+        "android_client_info": {
+          "package_name": "com.example.poojithamiryala.userqueue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245486346683-d8tsjckca4qu459ti9sut2vuqo750gt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSCKfOhfEeuTFj6wZhtBNnPuS_R_cR2YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
